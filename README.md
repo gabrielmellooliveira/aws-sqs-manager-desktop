@@ -1,0 +1,1 @@
+# aws-sqs-manager-desktop
